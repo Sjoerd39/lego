@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1548508296796.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2736391683",
+    "id" : "8C6234B3",
+    "lastKnownWriteTime" : 1548513348,
+    "last_content_update" : 1548513348702,
+    "path" : "C:/Users/Beheerder/Desktop/Projects/2019/lego/01_prepare_data.R",
+    "project_path" : "01_prepare_data.R",
+    "properties" : {
+        "cursorPosition" : "25,2",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

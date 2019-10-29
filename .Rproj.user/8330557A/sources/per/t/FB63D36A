@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1548508869388.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "FB63D36A",
+    "lastKnownWriteTime" : 7144510440153769829,
+    "last_content_update" : 1548508869388,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "75843DDE",
+        "caption" : "lego_df",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=lego_df&cache_key=75843DDE",
+        "displayedObservations" : "735270",
+        "environment" : "",
+        "object" : "lego_df",
+        "preview" : "0",
+        "totalObservations" : "735270",
+        "variables" : "19"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
